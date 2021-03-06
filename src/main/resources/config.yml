@@ -3,7 +3,7 @@ coin: 0
 #送出即将过期礼物 [true,false]
 gift: true
 #银瓜子兑换为硬币 [true,false]
-s2c: false
+s2c: true
 #月底自动使用B币卷 [{0,自己会使用},{1,给自己充电},{2,兑换成金瓜子}]
 autoBiCoin: 1
 #用户设备的标识 [android,ios]
